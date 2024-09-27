@@ -9,10 +9,10 @@ search: false
 @import "minimal-mistakes"; // main partials
 
 
-.u-photo {
+.author--avatar {
     transition: all 0.3s ease;
 }
   
-.u-photo:hover {
+.author--avatar:hover {
     content: url('https://tenor.com/view/cat-explosion-sad-explode-gif-15295996165959499721'); /* Remplacer l'image par une autre au survol */
 }
