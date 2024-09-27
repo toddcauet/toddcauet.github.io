@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Todd Cauet"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/todd.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "France"
   email            :
