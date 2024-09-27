@@ -7,3 +7,12 @@ search: false
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+.u-photo {
+    transition: all 0.3s ease;
+}
+  
+.u-photo:hover {
+    content: url('https://tenor.com/view/cat-explosion-sad-explode-gif-15295996165959499721'); /* Remplacer l'image par une autre au survol */
+}
