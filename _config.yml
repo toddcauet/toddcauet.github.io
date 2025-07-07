@@ -19,7 +19,7 @@ description: Intern
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -59,18 +59,12 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Intern"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://x.com/ToddCauet"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/toddcauet/"
 
 defaults:
   # _posts
