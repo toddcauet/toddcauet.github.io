@@ -23,7 +23,7 @@ search: false
 
 # Build settings
 markdown: kramdown
-remote_theme: hydecorp/hydejack@v9.2.1
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
