@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: welcome
 title: "Accueil"
+cover: true
 ---
 
 # Hello World
