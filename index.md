@@ -1,8 +1,9 @@
 ---
 layout: page
-title: ""
 cover: true
 ---
+
+salut
 
 # Hello World
 
