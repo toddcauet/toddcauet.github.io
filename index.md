@@ -1,6 +1,6 @@
 ---
-layout: page
-title: "Accueil"
+layout: welcome
+title: welcome
 cover: true
 ---
 
