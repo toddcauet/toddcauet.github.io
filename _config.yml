@@ -22,3 +22,7 @@ author:
   social:
     twitter: ToddCauet
     github: toddcauet
+
+menu:
+  - title: Resume
+    url: /resume/
