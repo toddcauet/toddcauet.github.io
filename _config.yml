@@ -8,6 +8,12 @@ plugins:
 
 remote_theme: hydecorp/hydejack@v9.2.1
 
+hydejack:
+  dark_mode:
+    dynamic: true
+    icon:    true
+    always:  false
+
 author:
   name: Todd Cauet
   email:
