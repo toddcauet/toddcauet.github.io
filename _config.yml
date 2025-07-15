@@ -1,9 +1,18 @@
 title: "Todd Cauet"
 description: "site perso de Todd Cauet"
 baseurl: ""
-url: "https://toddcauet.github.io"
+url: https://toddcauet.github.io
 
 plugins:
   - jekyll-include-cache
 
 remote_theme: hydecorp/hydejack@v9.2.1
+
+author:
+  name: Todd Cauet
+  email:
+  about: |
+    Hi i'm Todd Cauet
+  social:
+    twitter: ToddCauet
+    github: toddcauet
